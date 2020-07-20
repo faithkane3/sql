@@ -1,0 +1,1 @@
+# This repo is for sql practice and review notebooks.
